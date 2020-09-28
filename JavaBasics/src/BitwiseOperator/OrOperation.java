@@ -12,7 +12,7 @@ public class OrOperation {
 	 *  2). num1 = 1234
 	 *      num2 = 7894
 	 *      o/p  = 7894
-	 *  (Performing bitwise AND operation)
+	 *  (Performing bitwise OR operation)
 	 **/ 
 	public static void main(String[]args) {
 		int num1 = 1234,num2 = 7894;		
